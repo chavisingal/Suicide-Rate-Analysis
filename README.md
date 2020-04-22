@@ -1,4 +1,4 @@
-## SUICIDE RATES OVERVIEW 1985 TO 2016
+## SUICIDE RATES OVERVIEW 1985 TO 2016 (Insights/Hypothesis)
 
 * From the visualizations we see that there is a general decline in the average suicide rates globally. This paints a positive picture for the world. It could be attributed to the anti-depressants available in the recent years. It could also be due to the increase in awareness and help available over the past few years.
 * We also see that the top 10 countries with lowest suicide rate per 100k people are warm countries with higher temperatures relative to most countries which have a high suicide rate. So perhaps there could be a relation between temperatures and suicide rates.
