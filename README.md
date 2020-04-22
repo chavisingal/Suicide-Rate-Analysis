@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## SUICIDE RATES OVERVIEW 1985 TO 2016
 
-You can use the [editor on GitHub](https://github.com/chavisingal/Suicide-Rate-Analysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chavisingal/Suicide-Rate-Analysis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* From the visualizations we see that there is a general decline in the average suicide rates globally. This paints a positive picture for the world. It could be attributed to the anti-depressants available in the recent years. It could also be due to the increase in awareness and help available over the past few years.
+* We also see that the top 10 countries with lowest suicide rate per 100k people are warm countries with higher temperatures relative to most countries which have a high suicide rate. So perhaps there could be a relation between temperatures and suicide rates.
+* The spikes in the suicide numbers by generation plot for the years 1990 and 2008 could be attributed to the economic recession during those years. However, because of the high age range in the dataset, the generation plot could be misleading (especially when there is a change in generations).
+* The high difference in suicide rate by gender could imply that women express and seek help more often. It could also be due to the substance abuse or possession of guns which is more common comparatively among men.
+* The number of suicides for the age group 35-54 years could be highest due to the ’mid-life crisis’ that most people go through.
+* However, more data and analysis would be required to conclude the above hypotheses.
